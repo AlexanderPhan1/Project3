@@ -6,12 +6,12 @@ import "./startup.css";
 const StartUp = () => {
   return (
     <div className="container info">
-      <h4 className="center">How to get Started with Chefinately</h4>
-      <p>Have a current Food Service Sanitation Certificate. </p>
+      <h4 className="center">How to Partner Up with Kawasaki Catering</h4>
+      <p>Have a Up-To-Date Food Service Certificate. </p>
           
-      <p> Apply for a Shared Kitchen User License and Certificate of Insurance.</p>
+      <p> Apply for a Food Managers Certificate.</p>
 
-      <p>List of Shared Kitchens in the City of Chicago and Evanston to help you find the perfect kitchen for your needs. </p>
+      <p>List of Rent Kitchens in the City of Houston to help you find the perfect kitchen for your requirements. </p>
       
 
     
@@ -27,15 +27,10 @@ const StartUp = () => {
 
 <h4>Shared Kitchen List</h4>
       <Collection>
-        <CollectionItem href="http://chicagosmokekitchen.com/" >Chicago Smoke Kitchen </CollectionItem>
-        <CollectionItem href="http://kitchenchicago.com/" >Kitchen Chicago</CollectionItem>
-        <CollectionItem href="https://www.mykitchensllc.com/">My Kitchens</CollectionItem>
-        <CollectionItem href="https://edgeofsweetness.com/">Edge of Sweetness Bakery-Kitchen-Coffee</CollectionItem>
-        <CollectionItem href="http://www.lakeviewkitchenandmarket.com/">LakeView Kitchen and Market</CollectionItem>
-        <CollectionItem href="http://www.mypremiercaterer.com/premier-shared-kitchen/">Premier Catering and Events</CollectionItem>
-        <CollectionItem href="http://shareddreamkitchen.com/">Shared Dream Kitchen</CollectionItem>
-        <CollectionItem href="http://www.feastandimbibe.com/commissary/">Feast and Imbibe- Evanston's Shared Kitchen</CollectionItem>
-        
+        <CollectionItem href="http://www.culinaryincubator.com/maps.php?state=TX" >Culinary Incubator</CollectionItem>
+        <CollectionItem href="https://www.commercialkitchen205.com/" >Commercial Kitchen 205</CollectionItem>
+        <CollectionItem href="http://www.commercialkitchenforrent.com/location/texas/">Commercial Kitchen for Rent</CollectionItem>
+
       </Collection>
 
 
