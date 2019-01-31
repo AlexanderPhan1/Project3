@@ -9,12 +9,12 @@ mongoose.connect(
 );
 
 const chefSeed = [
-  {
-    chefName: "Christine May",
-    email: 'cheggg@gmail.com',
+    {
+    chefName: "Alexander",
+    email: 'alexphan123@gmail.com',
     password: "Moments",
-    city: "Chicago",
-    bio: "Southside Legend",
+    city: "Houston",
+    bio: "Houstonian Citizen",
     date: new Date(Date.now()),
     availability: true,
     range: 15,
@@ -22,71 +22,7 @@ const chefSeed = [
     profilepic:"",
     cuisines: ""
   },
-  {
-    chefName: "Derrick Wence",
-    email: 'jones@gmail.com',
-    password: "Moments",
-    city: "Chicago",
-    bio: "Southside Legend",
-    date: new Date(Date.now()),
-    availability: true,
-    range: 15,
-    foodimg: "",
-    profilepic:"",
-    cuisines: ""
-  },
-  {
-    chefName: "Jasmine Faith",
-    email: 'crist@gmail.com',
-    password: "Moments",
-    city: "Chicago",
-    bio: "Southside Legend",
-    date: new Date(Date.now()),
-    availability: true,
-    range: 15,
-    foodimg: "",
-    profilepic:"",
-    cuisines: ""
-  },
-  {
-    chefName: "Micheal Wallace",
-    email: 'hollyminer@gmail.com',
-    password: "Moments",
-    city: "Chicago",
-    bio: "Southside Legend",
-    date: new Date(Date.now()),
-    availability: true,
-    range: 15,
-    foodimg: "",
-    profilepic:"",
-    cuisines: ""
-  },
-  {
-    chefName: "Debra Luise",
-    email: 'ddff@gmail.com',
-    password: "Moments",
-    city: "Chicago",
-    bio: "Southside Legend",
-    date: new Date(Date.now()),
-    availability: true,
-    range: 15,
-    foodimg: "",
-    profilepic:"",
-    cuisines: ""
-  },
-  {
-    chefName: "Mary Matz",
-    email: 'tfrerf@gmail.com',
-    password: "Moments",
-    city: "Chicago",
-    bio: "Southside Legend",
-    date: new Date(Date.now()),
-    availability: true,
-    range: 15,
-    foodimg: "",
-    profilepic:"",
-    cuisines: ""
-  }
+
 ];
 
 db.Chef
