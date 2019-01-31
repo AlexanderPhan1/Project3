@@ -156,9 +156,8 @@ class SignUpChef extends Component {
                   onChange={(event) => this.handleInputChange(event)}
                   name="city"
                 >
-                  <option value="Chicago">Chicago</option>
-                  <option value="Evanston">Evanston</option>
-                  <option value="Des Plaines">Des Plaines</option>
+                  <option value="Houston">Houston</option>
+
                 </Input>
 
                 <Input
@@ -212,7 +211,7 @@ class SignUpChef extends Component {
             </Col >
 
             <Col s={6} className="rowwood right">
-              <img className="chefwood" src="https://i.postimg.cc/SK1MmdBT/chefinately-wood.png" alt="chefinatelylogo"></img>
+              <img className="chefwood" src="http://www.stickpng.com/assets/images/5888ca6ebc2fc2ef3a1860d9.png" alt="chefhat"></img>
             </Col>
 
           </Row>

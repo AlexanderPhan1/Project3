@@ -96,7 +96,7 @@ class userInterface extends React.Component {
             <Col s={3} className="aside left num2 container">
               <img
                 className="boxlogo"
-                src="https://i.postimg.cc/SNYBDm9j/Chefinatley-Icon.png"
+                src="http://pluspng.com/img-png/chef-hat-png-chef-hat-png-image-30007-400.jpg"
                 alt="cheflogo"
               />
               <h2 className="order">Order Now</h2>

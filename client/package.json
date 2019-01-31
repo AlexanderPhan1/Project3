@@ -1,7 +1,7 @@
 {
-  "name": "mern",
+  "name": "chef",
   "version": "0.1.0",
-  "description": "Mern Demo",
+  "description": "Chef Demo",
   "private": true,
   "dependencies": {
     "axios": "^0.16.2",

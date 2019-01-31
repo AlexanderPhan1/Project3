@@ -39,7 +39,7 @@
 //         return (
 
 
-//         <Modal className="center" header="Log In with your Chefinately Account" trigger={<Button  className="brown">LogIn</Button>}>
+//         <Modal className="center" header="Log In with your Chef Account" trigger={<Button  className="brown">LogIn</Button>}>
 //         <Row>
 //         <Col className="center" s={12}>
 //         <Input className="center" type="email" label="Email" s={6} />

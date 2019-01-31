@@ -11,7 +11,7 @@ const search = (props) => (
       s={6}
       label="City"
       validate
-      defaultValue="Chicago"
+      defaultValue="Houston"
       value={props.children}
     />
     </Col>
@@ -21,7 +21,7 @@ const search = (props) => (
       s={6}
       label="Cuisine"
       validate
-      defaultValue="Pizza"
+      defaultValue="Burger"
       value={props.children}
     />
     <Button className="submit center brown" >Submit</Button>

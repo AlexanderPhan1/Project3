@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Navbar, NavItem, Button, Modal, Row, Input, Col } from "react-materialize";
-import ImportedImage from "../../images/Logo(transparent).PNG";
+import ImportedImage from "../../images/chefhat.png";
 import "./Nav.css";
 import fire from "../../config/Fire";
 
@@ -63,7 +63,7 @@ class Nav extends Component {
                    >
                   Sign Out
                   </Button>
-          loggedInOrNot = <Col> Have a good day!
+          loggedInOrNot = <Col> Have a nice day!
                           <Row><Button className="red" onClick={this.logout}>LogOut</Button></Row>
                           </Col>        
           header = "Sorry! You have to click again to sign out"
@@ -101,7 +101,7 @@ class Nav extends Component {
                             </Button>
                           </Col>
                           </Row>
-            header = "Log in with your Chefinately Account!"
+            header = "Log in with your Chef Account!"
     }
 
     return (

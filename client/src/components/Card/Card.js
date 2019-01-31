@@ -4,7 +4,7 @@ import {Card, CardTitle, Row, Col, Carousel, Button } from "react-materialize";
 export default () => (
     <Row>
         <Col s={6}>
- <Card header={<CardTitle reveal image={"https://i.postimg.cc/D0LDSR8R/Takeout.jpg"} waves='light'/>}
+ <Card header={<CardTitle reveal image={"http://res.cloudinary.com/sagacity/image/upload/c_crop,h_866,w_1160,x_0,y_0/c_limit,f_auto,fl_lossy,q_80,w_1080/we_want_you_squz4z.jpg"} waves='light'/>}
     title="Create A Name for Yourself"
     reveal={<p>Join the Revolution, Earn Income by simply doing what you love.</p>}>
     <p><a href="/Signup">Become A Chef On our Platform</a></p>

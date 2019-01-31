@@ -44,19 +44,5 @@ const StartUp = () => {
 
 
 export default StartUp;
-  /* <Col m={6} s={12}>
-        <Card
-          //   className="blue-grey darken-1"
-          //   textClassName="white-text"
-          title="Chefs"
-          actions={[<a href="#">This is a link</a>]}
-        >
-          <Collection header="First Names">
-            <CollectionItem>Alvin</CollectionItem>
-            <CollectionItem>Alvin</CollectionItem>
-            <CollectionItem>Alvin</CollectionItem>
-            <CollectionItem>Alvin</CollectionItem>
-          </Collection>
-        </Card>
-      </Col> */
+
 
