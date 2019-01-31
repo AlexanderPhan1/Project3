@@ -9,7 +9,7 @@ const StartUp = () => {
       <h4 className="center">How to Partner Up with Kawasaki Catering</h4>
       <p>Have a Up-To-Date Food Service Certificate.</p>
           
-      <p>Apply for a Food Managers Certificate.</p>
+      <p> Apply for a Food Managers Certificate.</p>
 
       <p>List of Rent Kitchens in the City of Houston to help you find the perfect kitchen for your requirements. </p>
       
@@ -44,5 +44,19 @@ const StartUp = () => {
 
 
 export default StartUp;
-
+  /* <Col m={6} s={12}>
+        <Card
+          //   className="blue-grey darken-1"
+          //   textClassName="white-text"
+          title="Chefs"
+          actions={[<a href="#">This is a link</a>]}
+        >
+          <Collection header="First Names">
+            <CollectionItem>Alvin</CollectionItem>
+            <CollectionItem>Alvin</CollectionItem>
+            <CollectionItem>Alvin</CollectionItem>
+            <CollectionItem>Alvin</CollectionItem>
+          </Collection>
+        </Card>
+      </Col> */
 
