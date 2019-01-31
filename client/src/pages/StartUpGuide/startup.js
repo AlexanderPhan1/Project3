@@ -7,9 +7,9 @@ const StartUp = () => {
   return (
     <div className="container info">
       <h4 className="center">How to Partner Up with Kawasaki Catering</h4>
-      <p>Have a Up-To-Date Food Service Certificate. </p>
+      <p>Have a Up-To-Date Food Service Certificate.</p>
           
-      <p> Apply for a Food Managers Certificate.</p>
+      <p>Apply for a Food Managers Certificate.</p>
 
       <p>List of Rent Kitchens in the City of Houston to help you find the perfect kitchen for your requirements. </p>
       
