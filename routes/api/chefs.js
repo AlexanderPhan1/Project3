@@ -16,13 +16,13 @@ router
   .delete(chefController.remove);
 
 // // Routes with "/signup"
-// router
-//   .route("/signup")
-//   .post(chefController.create);
+ router
+   .route("/signup")
+   .post(chefController.create);
 
-// router
-//   .route("/api/chefs")
-//   .get(chefController.findAll)
+ router
+   .route("/api/chefs")
+   .get(chefController.findAll)
 
 
 module.exports = router;
