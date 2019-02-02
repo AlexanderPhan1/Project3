@@ -17,7 +17,7 @@ const StartUp = () => {
     
       <Collection>
       {/* <Icon tiny>attachment</Icon> */}
-        <CollectionItem href="https://www.cityofchicago.org/city/en/depts/cdph/provdrs/healthy_restaurants/svcs/enroll_in_a_foodsanitationcertificationcourse.html">City of Houston-Food Manager Class</CollectionItem>
+        <CollectionItem href="https://www.dshs.texas.gov/food-managers/certification.aspx#online">City of Houston-Food Manager Class</CollectionItem>
         <CollectionItem href="https://www.dshs.texas.gov/food-handlers/training/online.aspx">City of Houston-Food Handler Clase</CollectionItem>
         <CollectionItem href="https://www.360training.com/wcsstore/Megasite/images/360training/application-screenshots/full-image/cloud-storage-for-certificates-f.jpg">Sample-Certificate of Insurance</CollectionItem>
         {/* <CollectionItem href="/">Shared Kitchen List</CollectionItem> */}
