@@ -1,6 +1,6 @@
 import React from "react";
 
-import { Collection, CollectionItem } from "react-materialize";
+import { Col, Card, Collection, CollectionItem, Icon } from "react-materialize";
 import "./startup.css";
 
 const StartUp = () => {
