@@ -14,7 +14,7 @@ import Signup from "./pages/Signup";
 import SignUpCustomer from "./pages/SignUpCustomer";
 import About from "./pages/About";
 import Feed from "./pages/FeedPage"
-import StartUpGuide from "./pages/StartUpGuide";
+import StartUpGuide from "./pages/StartUpGuide/startup.js";
 import userInterface from "./pages/Dashboard";
 import Footer from "./components/Footer"
 import PdfPage from "./pages/PdfPage"
